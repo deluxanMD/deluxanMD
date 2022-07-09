@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Deluxan Mariathasan
 - 👀 I’m interested in developing web apps and mobile apps.
-- 🌱 I’m currently learning docker and kubernetes.
 - 💞️ I’m looking to collaborate on full stack web application with CI/CD.
 - 📫 You can reach me through my twitter handle @deluxanMD
 
